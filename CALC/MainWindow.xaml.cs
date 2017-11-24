@@ -27,7 +27,7 @@ namespace CALC
         public static char op = '0';
         static string cn = "";
 
-        private void button_Click(object sender, RoutedEventArgs e) // pi
+        private void button_Click(object sender, RoutedEventArgs e) // PI
         {
             li.Add(cn);
             cn = "";
@@ -60,16 +60,8 @@ namespace CALC
         public static string result()
         {
             double a = double.Parse(li[0]),
-                b = 0,
+                b = double.Parse(li.Last())
                 result = 0;
-            try
-            {
-                b = double.Parse(li.Last());
-            }
-            catch (Exception e)
-            {
-                error(e.Message);
-            }
             if (op == '+')
             {
                 result = a + b;
@@ -90,11 +82,6 @@ namespace CALC
             li.Add(result.ToString());
             li.Add("");
             return result.ToString();
-        }
-
-        static void error(string msg)
-        {
-
         }
 
         private void button_eq_Click(object sender, RoutedEventArgs e)

@@ -1,0 +1,14 @@
+H:\VSWorkshop\CALC\obj\Debug\CALC.csprojResolveAssemblyReference.cache
+H:\VSWorkshop\CALC\obj\Debug\MainWindow.g.cs
+H:\VSWorkshop\CALC\obj\Debug\App.g.cs
+H:\VSWorkshop\CALC\obj\Debug\CALC_MarkupCompile.cache
+H:\VSWorkshop\CALC\obj\Debug\CALC_MarkupCompile.lref
+H:\VSWorkshop\CALC\bin\Debug\CALC.exe.config
+H:\VSWorkshop\CALC\bin\Debug\CALC.exe
+H:\VSWorkshop\CALC\bin\Debug\CALC.pdb
+H:\VSWorkshop\CALC\obj\Debug\MainWindow.baml
+H:\VSWorkshop\CALC\obj\Debug\CALC.g.resources
+H:\VSWorkshop\CALC\obj\Debug\CALC.Properties.Resources.resources
+H:\VSWorkshop\CALC\obj\Debug\CALC.csproj.GenerateResource.Cache
+H:\VSWorkshop\CALC\obj\Debug\CALC.exe
+H:\VSWorkshop\CALC\obj\Debug\CALC.pdb
